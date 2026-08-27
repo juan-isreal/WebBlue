@@ -14,3 +14,13 @@ function button(pid, bid) {
 button("paragraph", "click");
 
 // end button script
+
+// google script
+document.getElementById('search-form').addEventListener('submit', () => {
+    const query = document.getElementById('search-input').value.trim();
+    if (query) {
+        window.location.href = `https://www.google.com/search?q=${encodeURIComponent(query)}`;
+    }
+});
+
+// end google script
