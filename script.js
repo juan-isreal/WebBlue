@@ -6,7 +6,9 @@ function button(pid, bid) {
     function click() {
         paragraph.textContent = "You Clicked the button!";
     }
-    addEventListener("click", click)
+    if (clicker) {
+        clicker.addEventListener("click", click)
+    }
 }
 
 button("paragraph", "click");
