@@ -1,13 +1,17 @@
 
 body {
-    background-color: #7B3F00;
+    background-color: #7B3F00; /* chocolate */
     font-family: "Comic Sans", "Serif-Sans";
     font-style: italic;
     font-weight: bold;
 }
 
 .div1 {
-    color: #D27D2D;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    color: #D27D2D; /* cinnamon */
 }
 
 h1 {
