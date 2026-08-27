@@ -1,0 +1,14 @@
+
+body {
+    background-color: brown;
+    font-family: "Comic Sans", "Serif-Sans";
+    font-style: bold, italic;
+}
+
+.text {
+    color:"black";
+}
+
+h1 {
+    font-style: normal;
+}
