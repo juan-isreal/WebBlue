@@ -2,11 +2,12 @@
 body {
     background-color: brown;
     font-family: "Comic Sans", "Serif-Sans";
-    font-style: bold, italic;
+    font-style: italic;
+    font-weight: bold;
 }
 
 .text {
-    color:"black";
+    color: black;
 }
 
 h1 {
