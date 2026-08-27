@@ -21,4 +21,7 @@ h1 {
 .div1 hr {
     width: 100%;
     align-self: stretch;
+    height: 2px;
+    border: none;
+    background-color: #7B3F00;
 }
