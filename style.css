@@ -17,3 +17,7 @@ body {
 h1 {
     font-style: normal;
 }
+
+hr {
+    display: normal;
+}
