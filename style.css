@@ -2,7 +2,6 @@
 body {
     background-color: #7B3F00; /* chocolate */
     font-family: "Comic Sans", "Serif-Sans";
-    font-style: italic;
     font-weight: bold;
 }
 
@@ -14,9 +13,6 @@ body {
     color: #D27D2D; /* cinnamon */
 }
 
-h1 {
-    font-style: normal;
-}
 
 .div1 hr {
     width: 100%;
