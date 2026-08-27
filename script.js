@@ -1,8 +1,8 @@
 
 // button script
 function button(pid, bid) {
-    const clicker = document.getDocumentById(bid);
-    const paragraph = document.getDocumentById(pid);
+    const clicker = document.getElementById(bid);
+    const paragraph = document.getElementById(pid);
     function click() {
         paragraph.textContent = "You Clicked the button!";
     }
