@@ -18,6 +18,7 @@ h1 {
     font-style: normal;
 }
 
-hr {
-    display: normal;
+.div1 hr {
+    width: 100%;
+    align-self: stretch;
 }
