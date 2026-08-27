@@ -1,13 +1,13 @@
 
 body {
-    background-color: brown;
+    background-color: #7B3F00;
     font-family: "Comic Sans", "Serif-Sans";
     font-style: italic;
     font-weight: bold;
 }
 
 .text {
-    color: black;
+    color: #D27D2D;
 }
 
 h1 {
