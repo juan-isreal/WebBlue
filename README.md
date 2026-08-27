@@ -1,2 +1,4 @@
 # WebBlue
-It's called WebBlue because its for the Web, and I'm saving it to a USB-Drive
+
+WebBlue is a WebApp Project.
+WebBlue was chosen because in Beta 1.0 this was run on a USB Drive named "BLUE" before the GitHub Repository.
