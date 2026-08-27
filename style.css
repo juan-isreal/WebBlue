@@ -1,7 +1,7 @@
 
 body {
     background-color: #7B3F00; /* chocolate */
-    font-family: "Comic Sans MS", "Serif-Sans";
+    font-family: 'Comic Sans MS', 'Comic Sans', 'Chalkboard', 'Marker Felt', cursive, sans-serif;
     font-weight: bold;
 }
 
@@ -24,4 +24,5 @@ body {
 #click {
     border-color: #BD7028;
     background-color: #D27D2D;
+    font-family: 'Comic Sans MS', 'Comic Sans', 'Chalkboard', 'Marker Felt', cursive, sans-serif;
 }
